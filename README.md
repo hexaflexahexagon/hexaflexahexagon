@@ -3,7 +3,7 @@
 
 ## hi
 
-im hex, i do stuff at [momentum mod](https://github.com/momentum-mod) (mostly issue triage, writing docs, tutorial design, etc) and make jump maps for tf2. talk to me about network hardware.
+im hex, i do stuff at [momentum mod](https://github.com/momentum-mod) (mostly issue triage, writing docs, tutorial design, etc) and make jump maps for tf2. talk to me about routing, switching, and computer networking.
 
 ## maps
 
