@@ -23,6 +23,6 @@ im hex, i do stuff at [momentum mod](https://github.com/momentum-mod) (mostly is
 - [twitch](https://www.twitch.tv/hexhexhexhexhexhexhexhex)
 - [steam](https://steamcommunity.com/id/hexhexhexhexhexhexhexhexhexhex/)
 - [github](https://www.duckduckgo.com)
-- [github gists] (https://gist.github.com/hexaflexahexagon)
+- [github gists](https://gist.github.com/hexaflexahexagon)
 
 ![User stats](https://github-readme-stats.vercel.app/api?username=hexaflexahexagon&?count_private=true&show_icons=true&theme=tokyonight&border_color=628FDA&border_radius=20&include_all_commits=true&custom_title=hex%27s%20GitHub%20Stats)
