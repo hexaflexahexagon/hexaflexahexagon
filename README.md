@@ -3,7 +3,7 @@
 
 ## hi
 
-im hex, i do stuff at [momentum mod](https://github.com/momentum-mod) (mostly issue triage, writing docs, tutorial design, etc) and make jump maps for tf2. talk to me about routing, switching, and computer networking.
+im hex, i do stuff for [momentum mod](https://github.com/momentum-mod), a game about source engine movement gamemodes like tf2 rocket jump, CS:S surf, and so on. typically i do issue triage, documentation, tutorial resource creation, and so on. i also make jump maps for both tf2 and momentum mod, the finished ones are linked in the table below. talk to me about routing, switching, and computer networking.
 
 ## maps
 
