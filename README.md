@@ -3,7 +3,7 @@
 
 ## hi
 
-im hex, i do stuff for [momentum mod](https://github.com/momentum-mod), a game about source engine movement gamemodes like tf2 rocket jump, CS:S surf, and so on. typically i do issue triage, documentation, tutorial resource creation, and so on. i also make jump maps for both tf2 and momentum mod, the finished ones are linked in the table below. talk to me about routing, switching, and computer networking.
+im hex, i do stuff for [momentum mod](https://github.com/momentum-mod), a game about source engine movement gamemodes like tf2 rocket jump, CS:S surf, and so on. typically i do issue triage, documentation, and in-game tutorial resource creation. i also make jump maps for both tf2 and momentum mod, the finished ones are linked in the table below. talk to me about routing, switching, and computer networking! 
 
 ## maps
 
@@ -23,7 +23,8 @@ im hex, i do stuff for [momentum mod](https://github.com/momentum-mod), a game a
 - [youtube](https://www.youtube.com/channel/UCWyS3zD8TR_vF3-6Bu-T1yg)
 - [twitch](https://www.twitch.tv/hexhexhexhexhexhexhexhex)
 - [steam](https://steamcommunity.com/id/hexhexhexhexhexhexhexhexhexhex/)
-- [github](https://www.duckduckgo.com)
+- [github](https://github.com/hexaflexahexagon)
 - [github gists](https://gist.github.com/hexaflexahexagon)
+- [very wip blog](https://hexaflexahexagon.github.io/)
 
 ![User stats](https://github-readme-stats.vercel.app/api?username=hexaflexahexagon&?count_private=true&show_icons=true&theme=tokyonight&border_color=628FDA&border_radius=20&include_all_commits=true&custom_title=hex%27s%20GitHub%20Stats)
