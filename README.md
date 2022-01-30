@@ -16,7 +16,7 @@ im hex, i do stuff for [momentum mod](https://github.com/momentum-mod), a game a
 | jump_watermelon    | none                         | https://jump.tf/forum/index.php/topic,3147 |
 | jump_rat           | none                         | https://jump.tf/forum/index.php/topic,3106 |
 | jump_miner         | https://youtu.be/Te-9-Hk4lNw | https://jump.tf/forum/index.php/topic,3056 |
-| jump_causatham_rc4 | https://youtu.be/LM-1x3Jq7bA | https://jump.tf/forum/index.php/topic,3338.0.html |
+| jump_causatham_rc4 | https://youtu.be/LM-1x3Jq7bA | https://jump.tf/forum/index.php/topic,3338 |
 
 ## links
 
